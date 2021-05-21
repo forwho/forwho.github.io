@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Having completed undergraduate studies in Math in Beijing University of Posts and Telecommunications, an interest towards interdisciplinary applications of math encouraged my current PhD studies on cognitive neuroscience. I am mainly interested in the applications of complex networks & graph algorithms in network neuroscience. The advancement of open science initiatives and openly available neuroimaging datasets has provided abundant research opportunities for computational neuroscience. My research aims to improve computational models that relate brain connectivity to individual differences influencing behavioral traits and psychopathologies.
-
----
+Having completed undergraduate studies in Math in Beijing University of Posts and Telecommunications, an interest towards interdisciplinary applications of math encouraged my current PhD studies on cognitive neuroscience. I am mainly interested in the applications of mathmatical modeling in cognitive neuroscience. The advancement of open science initiatives and openly available neuroimaging datasets has provided abundant research opportunities for cognitive neuroscience. My research aims to improve reproducibility and reliability of cognitive neuroscience.
 
 ## Research interest
 
